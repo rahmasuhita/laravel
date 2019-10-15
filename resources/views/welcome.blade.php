@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Rahma Suhita
                 </div>
 
                 <div class="links">
